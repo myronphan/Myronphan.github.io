@@ -1,0 +1,62 @@
+body{
+    color: #FFFFFF; 
+	background-image: url("images/blue.jpg");
+    background-size:2000px;
+	background-repeat: repeat;
+	margin: auto;
+	font-family: 'Baloo Paaji';
+}
+
+h1 {
+	<link href="style.css" rel="stylesheet" type="text/css"> 
+    font-size: 1.3em;
+	color: #FFFFFF 	;
+    text-align: center;
+}
+p.solid {border-style: solid;}
+
+#menu {
+	font-family: 'Baloo Paaji', cursive;
+	font-size: 50px;
+    color: #CD853F;
+	border-radius: 1px;
+	padding: 6px;
+	margin: auto;
+	display:block;
+}
+#body1 {
+	margin-right: 250px;
+	margin-left: 250px;
+	border-radius: 5px;
+	color: #FFFFFF;
+}	
+#title {
+	color: #FFFFFF;
+}
+a{color:#c0c0c0}	
+#bigjeff{
+	position: absolute;
+}
+#menutop {
+	font-family: 'Baloo Paaji', cursive;
+	font-size: 50px;
+    color: #FFFFFF;
+	border-radius: 1px;
+	padding: 6px;
+	background-color:transparent;
+	position: fixed;
+	top: 0%;
+	margin: auto;
+	display:block;	
+}
+#portmenu {
+	font-family: 'Baloo Paaji', cursive;
+}
+.parallax {
+	background-image: url("images/parallax.jpg");
+	height: 500px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

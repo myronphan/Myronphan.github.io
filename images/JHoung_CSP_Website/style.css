@@ -1,0 +1,10 @@
+body{
+	font-family: 'Quicksand';
+		
+	background-image: url("images/dreamcafewrapper.png"), url("images/bgimage.jpg");
+	background-position: 50% 30%, 100% 100%;
+	background-repeat: no-repeat, repeat;
+	background-size: 85%,25%
+		
+}	
+a{color:#000000}

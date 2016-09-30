@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+	<meta charset="utf-8">
+	<title>Jessie's CSP Website - Home</title>
+	<style style="text/css">
+
+  body {
+  background-image: url("images/bgimage.jpg");
+  background-position: 50% 50%;
+  background-repeat: repeat;
+ 
+  }
+  body { 
+    background-image: url('dreamcafewrapper.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+</style>
+	
+  </head>
+
+ 
+ <body>
+	<center><a href="index.html">Home</a>
+	<a href="portfolio.html">Portfolio</a>
+	<font color="white"><h1>Jessie Houng</h1></font>
+	<img src="images/face.jpg" height="250">
+	<font color="white"><p> "Tell my teacher I won't be in class, invent some sort of diesease." </p></font>
+	<img src="ice/images/cookies.jpg" height="100">
+	<img src="ice/images/icecream.jpg" height="100"></center>
+	<div style="position:absolute; top: 87px; left: 341px;"</div>
+	
+	
+  </body>
+ 
+</html>
+
